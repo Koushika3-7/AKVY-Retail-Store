@@ -1,5 +1,5 @@
 '''
-Note: In order to run this program, there should be at least one entry in admin
+Note: In order to run this program, there should be at least one entry in admin.
 '''
 
 
